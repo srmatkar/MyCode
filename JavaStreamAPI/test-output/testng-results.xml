@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="190" started-at="2020-04-14T11:31:22Z" finished-at="2020-04-14T11:31:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="190" started-at="2020-04-14T11:31:22Z" finished-at="2020-04-14T11:31:22Z">
+      <class name="test1">
+        <test-method status="PASS" signature="streamsUsage()[pri:0, instance:test1@6cc4c815]" name="streamsUsage" duration-ms="136" started-at="2020-04-14T11:31:22Z" finished-at="2020-04-14T11:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamsUsage -->
+      </class> <!-- test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
