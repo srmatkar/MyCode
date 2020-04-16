@@ -117,6 +117,8 @@ public class test1 {
 	@Test
 	public void streamsUsage(){
 		
+		// This is example of sorting
+		
 		List<Integer> values = Arrays.asList(1,2,2,4,8,0,7,3,5,6,4,9);
 	//	values.stream().distinct().forEach(s ->System.out.println(s));
 		
